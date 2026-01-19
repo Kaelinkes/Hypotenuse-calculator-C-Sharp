@@ -11,9 +11,8 @@ The program:
 1. Prompts the user to enter the lengths of **side A** and **side B**
 2. Applies the formula:
 
-[
-c = \sqrt{a^2 + b^2}
-]
+<img width="300" height="89" alt="image" src="https://github.com/user-attachments/assets/ecc9d6b9-808e-455a-9792-5223f31f3838" />
+
 
 3. Displays the calculated **hypotenuse**
 
