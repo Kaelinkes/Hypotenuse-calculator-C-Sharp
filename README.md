@@ -37,10 +37,7 @@ The program:
 
 ## 💡 Example Output
 
-```
 <img width="373" height="85" alt="image" src="https://github.com/user-attachments/assets/c0611658-bfbb-448d-b8d3-e546ad483804" />
-
-```
 
 ---
 
